@@ -13,8 +13,6 @@ Certain modifications have been made in the process.
 
 The diode matrix in the control unit now uses SOT-23 dual common anode diodes to reduce space
 
-The 100nF capacitors have been set to 0603 - again to reduce space
-
 Eagle CAD allows all of the major IC packages to be easily converted to the SMT equivalent
 
 - if you want to do a very compact Gigatron using 74F series SMT packages
