@@ -5,6 +5,8 @@ These files contain the Gigatron TTL computer schematics transcribed to Eagle CA
 
 There are both PDF and PNG overviews of the ALU and Memory sections - a convenient way of representing the complete design.
 
+The files have been posted - so that anyone who wants to build on the Gigatron design, has a known starting point in EagleCAD.
+
 Certain modifications have been made in the process.
 
 74HCT273 has been exchanged for the more bus friendly 74HCT573
