@@ -1,13 +1,15 @@
 # Gigatron-CAD
 Eagle CAD Files for GigatronTTL Computer
 
-These files contain the Gigatron TTL computer transcribed to Eagle CAD - using original IC numbers
+These files contain the Gigatron TTL computer schematics transcribed to Eagle CAD - using original IC numbers
+
+There are both PDF and PNG overviews of the ALU and Memory sections - a convenient way of representing the complete design.
 
 Certain modifications have been made in the process.
 
 74HCT273 has been exchanged for the more bus friendly 74HCT573
 
-74HCT240 and 74HCT244 have been eachanged for 74F540 and 74F541  - again to give better bus flow.
+74HCT240 and 74HCT244 have been exchanged for 74F540 and 74F541 - again to give better bus flow.
 
 The diode matrix in the control unit now uses SOT-23 dual common anode diodes to reduce space
 
