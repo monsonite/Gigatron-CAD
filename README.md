@@ -1,7 +1,7 @@
 # Gigatron-CAD
 Eagle CAD Files for the Gigatron TTL Computer
 
-These files contain the Gigatron TTL computer schematics transcribed to Eagle CAD - using original IC numbers
+These files contain the Gigatron TTL computer schematics transcribed to Eagle CAD - using the IC numbers used in the original KiCAD.
 
 There are both PDF and PNG overviews of the ALU and Memory sections - a convenient way of representing the complete design.
 
