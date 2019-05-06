@@ -1,5 +1,5 @@
 # Gigatron-CAD
-Eagle CAD Files for GigatronTTL Computer
+Eagle CAD Files for the Gigatron TTL Computer
 
 These files contain the Gigatron TTL computer schematics transcribed to Eagle CAD - using original IC numbers
 
