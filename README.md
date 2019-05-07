@@ -17,9 +17,9 @@ Certain components substitutions have been made for convenience of layout or sav
 
 The diode matrix in the control unit now uses SOT-23 dual common anode diodes to reduce space
 
-Eagle CAD allows all of the major IC packages to be easily swapped to their SMT equivalents
 
-If you want to make a very compact Gigatron using 74F series SMT packages.
+
+If you want to make a very compact Gigatron using 74F series SMT packages. Eagle CAD allows all of the major IC packages to be easily swapped to their SMT equivalents
 
 Gigatron has been run at between 12.5 and 15MHz using 74F series ICS
 
